@@ -1,0 +1,13 @@
+export = {
+    itad: {
+        // https://new.isthereanydeal.com/apps/create/
+        // Client IDやClient Secretではなく、API Keysと書いてあるもの
+        key: "",
+    },
+    discord: {
+        // https://discord.com/developers/applications
+        // tokenは作成したAppのBotページにあるもので、 CLIENT ID や CLIENT SECRET **ではない** ことに注意
+        token: "",
+    },
+    currency: "JPY",
+};
